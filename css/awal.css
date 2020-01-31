@@ -1,0 +1,42 @@
+body {
+    background-image: url(../img/bg.jpg);
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #1456ad;
+    font-size: 40px;
+    text-align: center;
+    color: #ffffff;
+    padding: 1px 0px;
+    border-radius: 20px;
+}
+
+#grid {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 40px;
+    background-color: #ffffff;
+    padding: 10px 50px 50px 50px;
+    border-radius: 50px;
+    border: 2px solid #cbcbcc;
+    box-shadow: 5px 5px 5px #cbcbcc;
+}
+
+#grid h2 {
+    padding: 10px;
+    font-size: 20px;
+}
+
+#start {
+    margin: 30px 20px 20px 250px;
+    background-color: #1456ad;
+    width: 100px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #ffffff;
+    border: 1px solid #1456ad;
+    border-radius: 50px;
+}
